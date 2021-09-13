@@ -1,0 +1,33 @@
+#menuCabeça{
+	margin: 0;
+	padding: 0	;
+	display: flex;
+	justify-content:space-between;
+	height: fit-content;
+	background-color: white;
+}
+
+a:link{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: blue;
+}
+
+
+}
+
+.container{
+	background-color: blue;
+	height: fit-content;
+	list-style-type: none;
+	border-style: solid;
+	border-color: blue;
+}
+nav{
+	height: fit-content;
+	background-color: red;
+}
+body{
+	background-color: #CCD1D1 ;
+}
